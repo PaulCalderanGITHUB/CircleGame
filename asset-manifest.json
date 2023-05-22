@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CircleGame/static/css/main.fb3b8898.css",
+    "main.js": "/CircleGame/static/js/main.3e10680b.js",
+    "static/js/787.13d70b06.chunk.js": "/CircleGame/static/js/787.13d70b06.chunk.js",
+    "static/media/logo.svg": "/CircleGame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CircleGame/index.html",
+    "main.fb3b8898.css.map": "/CircleGame/static/css/main.fb3b8898.css.map",
+    "main.3e10680b.js.map": "/CircleGame/static/js/main.3e10680b.js.map",
+    "787.13d70b06.chunk.js.map": "/CircleGame/static/js/787.13d70b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3b8898.css",
+    "static/js/main.3e10680b.js"
+  ]
+}
