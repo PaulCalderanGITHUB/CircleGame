@@ -1,0 +1,221 @@
+@keyframes flash {
+    0% { opacity: 0; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+
+.blue-circle.small{
+    border: solid 2px;
+    border-color: blue;
+    background-color: blue;
+    height: 50px;
+    width: 50px;animation: flash 1s infinite;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+.blue-circle.medium{
+    border: solid 2px;
+    border-color: blue;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+.blue-circle.large{
+    border: solid 2px;
+    border-color: blue;
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.red-circle.small{
+    border: solid 2px;
+    border-color: red;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+
+.red-circle.medium{
+    border: solid 2px;
+    border-color: red;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+
+
+.red-circle.large{
+    border: solid 2px;
+    border-color: red;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.green-circle.small{
+    border: solid 2px;
+    border-color: green;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+
+.green-circle.medium{
+    border: solid 2px;
+    border-color: green;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+
+
+.green-circle.large{
+    border: solid 2px;
+    border-color: green;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.yellow-circle.small{
+    border: solid 2px;
+    border-color: yellow;
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+
+.yellow-circle.medium{
+    border: solid 2px;
+    border-color: yellow;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+
+
+.yellow-circle.large{
+    border: solid 2px;
+    border-color: yellow;
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.pink-circle.small{
+    border: solid 2px;
+    border-color: grey;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+
+.pink-circle.medium{
+    border: solid 2px;
+    border-color: grey;
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+
+
+.pink-circle.large{
+    border: solid 2px;
+    border-color: grey;
+    background-color: grey;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.purple-circle.small{
+    border: solid 2px;
+    border-color: purple;
+    background-color: purple;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    animation: flash 0.05s;
+}
+
+.purple-circle.medium{
+    border: solid 2px;
+    border-color: purple;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    animation: flash 0.05s;
+}
+
+
+.purple-circle.large{
+    border: solid 2px;
+    border-color: purple;
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    animation: flash 0.05s;
+}
+
+.oneFlash {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    position: absolute;
+    animation: flash 0.3s;
+  }
+
+.noFlash {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px;
+    border-color: white;
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    font-size: 20px;
+    color: black;
+  }
+  
+
+
+
+  
+
+
+
+

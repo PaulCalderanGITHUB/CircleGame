@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Circle Game</title>
+  <link href="/static/css/main.fb3b8898.css" rel="stylesheet">
+</head>
+<body>
+  <div id="root"></div> <!-- Placeholder for React app rendering -->
+
+  <!-- Add the script tags for the React dependencies and your app.js file -->
+  <script src="/static/js/main.484ae7de.js"></script>
+
+  <!-- Your app's JavaScript and CSS files should be referenced here -->
+</body>
+</html>
